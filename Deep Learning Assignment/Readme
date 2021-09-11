@@ -1,0 +1,10 @@
+Aim: In this task I was asked to make a machine learning model that can predict that the asked question belongs to History Subject or Science & Technology.
+
+Machine Learning Algorithm Used- Support Vector Machine
+
+Liberaries Used:-
+1.PypPDF2
+2.Pandas
+3.Sklearn
+
+All the required datasets are in the folder itself, you can use the Discrete dataset or the combined dataset that I've used.
